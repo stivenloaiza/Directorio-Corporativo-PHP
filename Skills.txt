@@ -1,0 +1,8 @@
+HTML5
+JavaScript
+ECMAScript6 (ES6)
+AJAX
+PHP
+MySQL
+CSS
+Responsive Desing 
